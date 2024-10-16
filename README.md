@@ -1,1 +1,1 @@
-# Wine_quality
+# Ocena Jakości Win
